@@ -7,4 +7,6 @@ The purpose of this machine learning model is to group or cluster according to t
 
 3. Used principal component analysis for dimensionality reduction.
 
-4. Trained using k-means clustering algorithm.
+4. Used elbow method for finding the right no. of clusters.
+
+5. Trained using k-means clustering algorithm.
